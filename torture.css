@@ -1,0 +1,123 @@
+
+	
+.header {
+	width: 100%;
+	height: 80%;
+	z-index: 0;
+	margin: 0px;
+}
+
+#interactive_hype_container {
+	width: 100%;
+	margin-right: 30px;
+	padding: 5px;
+	float: left;
+}
+
+#header_hype_container {
+	width: 100%;
+	margin:0;
+	float: right;
+}
+
+#waitinteractive_hype_container {
+	width: 100%;
+	margin-left:-500;
+	padding: 5px;
+	float: right;
+}
+
+#amuaudio_hype_container {
+	width: 100%;
+	padding: 10px;
+	float: left;
+}
+
+body {
+	background-color: white;
+	font-size: 20px;
+	font-family: Helvetica;
+}
+
+p {
+	margin-left: 150px;
+	margin-right: 350px;
+}
+
+.chart {
+	margin-left: 150px;
+	margin-right: 300px;
+}
+
+#bylines {
+	list-style-type: none;
+	font-weight: bold;
+	font-size: .9em;
+	padding-top: 10px;
+}
+   
+#date {
+
+	font-style: italic;
+}  
+
+
+#calculator{
+	float: left;
+}
+hr.subHeadline { 
+  border: 0; 
+  height: 1px; 
+  background-image: -webkit-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+  background-image: -moz-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+  background-image: -ms-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0);
+  background-image: -o-linear-gradient(left, #f0f0f0, #8c8b8b, #f0f0f0); 
+}
+
+#calcBreak {
+	border: 0; 
+  height: 3px;
+  margin-right: 550px;
+  margin-left: 150px;
+  color: #00008B; 
+  background-image: -webkit-linear-gradient(left, #f0f0f0, #405d8c, #f0f0f0);
+  background-image: -moz-linear-gradient(left, #f0f0f0, #405d8c, #f0f0f0);
+  background-image: -ms-linear-gradient(left, #f0f0f0, #405d8c, #f0f0f0);
+  background-image: -o-linear-gradient(left, #f0f0f0, #405d8c, #f0f0f0); 
+}
+
+#asylumCalculator {
+		
+	margin-left: 150px;
+}
+
+#calculatorHead {
+	font-size:1.5em;
+	font-weight: bold;
+	margin-right:-600px
+}
+
+#alculatorIntro {
+	margin-right: 600px;
+}
+
+img.iran {
+	float: right;
+}
+
+p.introduction:first-letter {
+ font-size: 80px;
+ float: left; 
+color: black;
+ line-height: 10px;
+ padding-top: 10px; 
+ padding-right: 6px;
+ padding-bottom: 10px;
+ font-weight: bolder;
+ font-family: Helvetica;
+}
+
+.infographic{
+	margin-left: 150px;
+	margin-right: 350px;
+}
